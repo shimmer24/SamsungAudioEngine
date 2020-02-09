@@ -1,0 +1,14 @@
+#
+# Samsung Audio Engine
+#
+# Samsung Specific Properties
+ro.build.PDA=N960FXXS4CSK2
+ro.build.official.release=true
+ro.build.2ndbrand=false
+ro.config.rm_preload_enabled=1
+ro.build.changelist=16685647
+ro.product_ship=true
+ro.hardware.chipname=exynos9810
+# end build properties
+ro.knox.enhance.zygote.aslr=0
+ro.config.systemaudiodebug=abox&codecdsp

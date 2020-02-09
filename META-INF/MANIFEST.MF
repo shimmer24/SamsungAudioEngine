@@ -1,0 +1,740 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/lib/libsamsungearcare.so
+SHA1-Digest: W+DaB5MYqCFYZ2vdBUAMzvOMZbI=
+
+Name: system/vendor/lib/lib_soundaliveresampler.so
+SHA1-Digest: e7oH+FQmlFKZMy7cQc2WUS92SbY=
+
+Name: module.prop
+SHA1-Digest: z2sw70KK60c5BWbBqWQb4VioioE=
+
+Name: system/lib/libsavsff.so
+SHA1-Digest: zb7Pwt9sLLbKMNPtctAT+4G5Tjg=
+
+Name: 64/lib64/libSamsungAPVoiceEngine.so
+SHA1-Digest: 5Pbl1HEGuBY5ELkmJqlh4VymEmI=
+
+Name: system/lib/jack/in.so
+SHA1-Digest: 4AOBJ6E8Aqr7EIvf5t3eeBAPxPc=
+
+Name: system/lib/libmediacapture.so
+SHA1-Digest: ltga8LjytxVG9S4P4bgkAw6DJOU=
+
+Name: system/etc/mixer_paths_r01.xml
+SHA1-Digest: Crz80jDcOhRS3jCWamqjHEobdjA=
+
+Name: 64/lib64/liblegacyeffects.so
+SHA1-Digest: EeNFWk4rcmlrvV4VyHbBo+dBSt0=
+
+Name: system/xbin/jack_simple_client
+SHA1-Digest: oHzccgY1raC8BL9pKQhRaujBQjA=
+
+Name: Changelog.txt
+SHA1-Digest: Df4Ghp3ZNW4/d51Z9P7SCpDifJs=
+
+Name: system/framework/com.sec.android.app.multiwindow.jar
+SHA1-Digest: uxCkYQrxwR6QJB8OJSJlobEW/is=
+
+Name: system/lib/lib_soundaliveresampler.so
+SHA1-Digest: cQ5uavPHjEhEElgneKb0xBl9Gs4=
+
+Name: system/vendor/lib/libaboxpcmdump.so
+SHA1-Digest: Il1cSoTWy5gGpYcXIcF/whujjHY=
+
+Name: 64/vendor/lib64/libaudiohookclient.so
+SHA1-Digest: gBUtBoCMZSG55NbHn+xDH0SwOpk=
+
+Name: common/util_functions.sh
+SHA1-Digest: jE7ATx2ZAmQeWAO2TeY6psDcEPg=
+
+Name: system/lib/libdexfile.so
+SHA1-Digest: 6PnIwq5URQE4jcmg/KG6QAFivs0=
+
+Name: system/priv-app/SoundAlive_54/SoundAlive_54.apk
+SHA1-Digest: 55hx0gjj3SdB/zi5RFed3P1W+vY=
+
+Name: system/vendor/lib/soundfx/libldnhncr.so
+SHA1-Digest: eXNDzrH8N4ntafohDvgcF1Ge1ag=
+
+Name: 64/lib64/libscore.so
+SHA1-Digest: dTIT6Cwa8ji3oEfjoeZ13bPNka4=
+
+Name: 64/lib64/libSoundAlive_SRC192_ver205a.so
+SHA1-Digest: 4HNZKwuPHLoPF8JhyXoy1DDai+c=
+
+Name: system/lib/soundfx/libplaybackrecorder.so
+SHA1-Digest: 7Ojd4Kp3J55YoaUSzn9L4nlIa58=
+
+Name: system/etc/stage_policy.conf
+SHA1-Digest: eYoa5HlffPv9RLPnXWal/VWR0Oc=
+
+Name: system/lib/libapa_client.so
+SHA1-Digest: 3ZWdvfdlGh8RUilZMddpVCkIREc=
+
+Name: system/etc/apa_settings.cfg
+SHA1-Digest: G/5k3/TJTJmLKcVOYhjTNiPhtzQ=
+
+Name: system/etc/security/cacerts/33ee480d.0
+SHA1-Digest: vhDF9litsDtCCx1IHzRtKh3d0hc=
+
+Name: system/etc/security/cacerts/fd08c599.0
+SHA1-Digest: NvBbHIX1UxDaYN/5Gh2kA7jveM8=
+
+Name: system/vendor/firmware/AP_AUDIO_SLSI.bin
+SHA1-Digest: 3lsfKQmU9fJE5GK3SPQLyNxSk9w=
+
+Name: system/lib/libaudiosaplus_sec_legacy.so
+SHA1-Digest: Zf2hG4c5JyXUf6I4jMC6ehhgwAM=
+
+Name: system/etc/mixer_paths_r00.xml
+SHA1-Digest: SBr+JTFYRWXInylwiHi8iRssY/Y=
+
+Name: system/lib/jack/jack_loopback.so
+SHA1-Digest: 4dU5KdrA+GIr9fIx7eiKec3e2F0=
+
+Name: system/vendor/lib/lib_SoundAlive_play_plus_ver210.so
+SHA1-Digest: qh36zP4gO8UiAfLnAdsI2JyzOTo=
+
+Name: system/etc/security/cacerts/7a7c655d.0
+SHA1-Digest: ncxvbyIcyh5qrUXIuy39rUb0Mko=
+
+Name: 64/vendor/lib64/soundfx/libldnhncr.so
+SHA1-Digest: nr5tXuuGrW7s0VDSYX8FAm32vQ0=
+
+Name: system/lib/soundfx/libswdap.so
+SHA1-Digest: W+RK2FWnSoUsPPheCcud7UootyY=
+
+Name: system/vendor/lib/soundfx/libdynproc.so
+SHA1-Digest: xFJbxckr8CpJHOfWrhPO8ehvwxM=
+
+Name: 64/vendor/lib64/soundfx/libvisualizer.so
+SHA1-Digest: h1O/+3LwKzSbvtfPQb9nVGlBEBQ=
+
+Name: system/lib/libSoundAlive_VSP_ver315b_arm.so
+SHA1-Digest: 4Z8QMOiUkpsIuPSxe5VWcsgrTfU=
+
+Name: system/etc/permissions/SemAudioThumbnail_library.xml
+SHA1-Digest: HOBH0USBRf4c/+P3GUBeaXnnFiE=
+
+Name: system/etc/mixer_gains.xml
+SHA1-Digest: 3jcC9aWSYoAuvTibdeuHHUHuFW4=
+
+Name: system/etc/security/cacerts/ab59055e.0
+SHA1-Digest: TsU/0CsAPKTmgrQ+p9sB4c/nl4c=
+
+Name: system/vendor/lib/libapex_jni.so
+SHA1-Digest: 5zDLRqDYBolQ2lXCXwDCKDTzrYo=
+
+Name: 64/lib64/hw/audio.tms.default.so
+SHA1-Digest: 5kzCI1A08jT5yPkDSoq6WNhrMlc=
+
+Name: specific.tar.gz
+SHA1-Digest: 1re+N8PS+LLQGL380FrdSGT0638=
+
+Name: system/app/SplitSoundService/SplitSoundService.apk
+SHA1-Digest: 0fIXvhgCIYTyeLBqoMHyMQwHd+I=
+
+Name: system/lib/hw/sound_trigger.primary.universal8895.so
+SHA1-Digest: XhYd85tjZyRlzUFcB8fuvUESo0Y=
+
+Name: 64/lib64/lib_DNSe_EP_ver216c.so
+SHA1-Digest: z96GL6GgZ7H4WJsklJx2ktYH8uM=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: system/framework/hqm.jar
+SHA1-Digest: IA7MhtcPEpFBj6zHx8wvN0IiPew=
+
+Name: system/framework/SecProductFeature_AUDIO.jar
+SHA1-Digest: yHwdcoEAHC81wv39QWE/uxNU2H0=
+
+Name: system/lib/libfloatingfeature.so
+SHA1-Digest: WlzTOgPZ9Lbm5wAj7PE8/nb6gpA=
+
+Name: system/vendor/firmware/dsm_tune.bin
+SHA1-Digest: MbCcV/DEJwmxprvf6WqI4p0xrSA=
+
+Name: system/framework/com.sec.android.visualeffect.jar
+SHA1-Digest: zBqlUaWp7NQwXCylGgxU2Cabcok=
+
+Name: system/xbin/jack_showtime
+SHA1-Digest: mu6o5bXVfoM6GRGbMuh14KXjS+A=
+
+Name: system/etc/permissions/com.samsung.device.xml
+SHA1-Digest: gETNWJsREYe8z6rD6PyAacXlv9Q=
+
+Name: system/etc/security/cacerts/fb5fa911.0
+SHA1-Digest: C0t4j0NrfKki8HTsGe9S2/T5G8A=
+
+Name: system/xbin/jack_transport
+SHA1-Digest: zjNfdWvsQkrBTyXh6IYBz5YUtGc=
+
+Name: system/vendor/lib/libSamsungPostProcessConvertor.so
+SHA1-Digest: 4tJP8htELbUc6xgzqcPliaWhgjI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: /LwPIESAlOos/rXk+9h9LheNdsc=
+
+Name: system/vendor/lib/hw/audio.r_submix.default.so
+SHA1-Digest: AfcFlb4w8WMk62o6elOpIkf+zko=
+
+Name: 64/lib64/libapex_cmn.so
+SHA1-Digest: OpZ8tEILLcszxMHnjVLMzuGJi+k=
+
+Name: 64/lib64/libmediacapture.so
+SHA1-Digest: ii8zxKiWSdMhs9Ozp9e9eJnoiro=
+
+Name: system/vendor/lib/soundfx/libreverbwrapper.so
+SHA1-Digest: 4TKI/dpjzM86QPBQ6m7yhEZF43Q=
+
+Name: system/framework/com.sec.android.app.minimode.jar
+SHA1-Digest: qQS8r8Yxa1ufMJbXpu+G7DMnGSQ=
+
+Name: system/bin/jackservice
+SHA1-Digest: GkNL+qiVCo3TPIej+IRGRHDchH8=
+
+Name: system/etc/security/cacerts_wfa/674b5f5b.0
+SHA1-Digest: 5iltgBvlu7LPmlAcdtNpMNfIh9Y=
+
+Name: 64/vendor/lib64/libcordon.so
+SHA1-Digest: VHs3RgdML9jiakNbONVOaU/XAhk=
+
+Name: system/etc/security/cacerts/d0cddf45.0
+SHA1-Digest: zW5GmZvxwp9jXuFh8LIpsIbmm4g=
+
+Name: system/framework/SemAudioThumbnail.jar
+SHA1-Digest: FkpVK69E9bpPtbhdJmrTtSonKJs=
+
+Name: system/lib/libsavscmn.so
+SHA1-Digest: Tp8UfFAEHzY5VgQjTaMULynpZqY=
+
+Name: 64/lib64/libapex_intf.so
+SHA1-Digest: 6DG6z2Kh8XRSE7kEFzhBDFJ49P8=
+
+Name: system/lib/hw/audio.playback_record.default.so
+SHA1-Digest: 1y12Q+s2kQCz72GdrVpFgffn4a8=
+
+Name: system/etc/certReqTemplate256.der
+SHA1-Digest: zpoUsQh8dR3JdYGpwzG17I8vTqM=
+
+Name: system/lib/soundfx/libsamsungSoundbooster_plus.so
+SHA1-Digest: BIwT/OInHlG7mf9sG2AikG79wC8=
+
+Name: README.md
+SHA1-Digest: pEVsEeGStlLt3/+L1sY9Hq/Ph6o=
+
+Name: 64/lib64/libsavsac.so
+SHA1-Digest: Q9TeNzwaK0MJeipHHdJe6VavIZw=
+
+Name: system/etc/security/cacerts/cb1c3204.0
+SHA1-Digest: yGrrIkxvtuKxXMOypA0zzZrKb4c=
+
+Name: system/vendor/lib/soundfx/libbundlewrapper.so
+SHA1-Digest: YAOA0wUfomvI19B4QVCsze01+Zs=
+
+Name: system/vendor/lib/soundfx/libvisualizer.so
+SHA1-Digest: l9xgVPrFF6P15+yejgUz/yNAN+g=
+
+Name: system/framework/codecsolution.jar
+SHA1-Digest: XtJB+ezBdufpe/KWI9mjdoYZqmc=
+
+Name: 64/lib64/libmediacapture_jni.so
+SHA1-Digest: T2mVDXouKgWnPX7wgZvckgETUzw=
+
+Name: system/lib/libcodecsolution.so
+SHA1-Digest: R23ZG+Wig5JJetw/RR3j3tO/Vbo=
+
+Name: system/etc/jack_alsa_mixer.json
+SHA1-Digest: KqV7AnG4jZOp7+XAcH3zSYLtotk=
+
+Name: system/vendor/lib/lib_SoundAlive_SRC384_ver320.so
+SHA1-Digest: szQ6ua3W60JqGbcS2+ugAiTsp9g=
+
+Name: 64/lib64/libsavsvc.so
+SHA1-Digest: HGRfIr1MkcDk0i/V5waS3gnF6X0=
+
+Name: system/vendor/etc/audio_effects.conf
+SHA1-Digest: Her+wqBRrvUnsVP5CrI1wjQUYpQ=
+
+Name: system/bin/auditd
+SHA1-Digest: V2O9MCLhGzAX1V2N0ym8boF64hw=
+
+Name: 64/lib64/soundfx/libswdap.so
+SHA1-Digest: oj995ZzqolKKW89/+A9CJtj1oVU=
+
+Name: system/vendor/lib/libcordon.so
+SHA1-Digest: VeR6Ik1Goi356xzUBC8CxD/z1LM=
+
+Name: system/etc/permissions/com.sec.android.app.multiwindow.xml
+SHA1-Digest: qArqKEEnnIM/lN/ydbTfGgZXOag=
+
+Name: system/etc/mixer_gains_r00.xml
+SHA1-Digest: ZhDHmm/HVayUrO/liO56Y/UOg0g=
+
+Name: 64/vendor/lib64/libapa_jni.so
+SHA1-Digest: yUctZ/aV+DlUpwp5t9PK9YaVjdc=
+
+Name: system/bin/apexserver
+SHA1-Digest: vbbgg7i7UKW27NeBOFA+kSM+7pw=
+
+Name: system/etc/security/cacerts/7892ad52.0
+SHA1-Digest: SvGPCsXQFdJjzAGGYf677Zagbck=
+
+Name: system/lib/libapex_intf.so
+SHA1-Digest: h1V1gtCSVKzbA+ojxL5j6zmOrrU=
+
+Name: 64/lib64/lib_SoundAlive_SRC384_ver320.so
+SHA1-Digest: n79Bw/UQLlr+ulKvY67+o1FYbIE=
+
+Name: system/etc/security/cacerts/dfc0fe80.0
+SHA1-Digest: z9lgBQOLpPfmmiugP+uCfQ0SAbc=
+
+Name: system/etc/permissions/semextendedformat.xml
+SHA1-Digest: OfPIBfb8jO5gvXA2YkAUqJeN/Vo=
+
+Name: 64/lib64/libapa_client.so
+SHA1-Digest: HZRHzIrqTcjGt8J6DSJq9LE9xtE=
+
+Name: common/uninstall.sh
+SHA1-Digest: 1sc+TbK1RdOjLBhPwP4a2SyTv2U=
+
+Name: system/etc/security/cacerts_wfa/ea93cb5b.0
+SHA1-Digest: eyp/j6w4E2Dj26Umqv6Iy9jUYxI=
+
+Name: system/lib/libapex.so
+SHA1-Digest: 5/N2yKD+qqlgLv/9NMS7bEbuHec=
+
+Name: 64/lib64/hw/sound_trigger.primary.universal8895.so
+SHA1-Digest: j0NLeHSLE7pi00ltzL+dOKoryfg=
+
+Name: install.sh
+SHA1-Digest: hWrLiN1jwLVfTlX4lpkiYbrChks=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: jAbZ9OoZJtfM45HrgPxeClHoryE=
+
+Name: 64/lib64/libjackshm.so
+SHA1-Digest: neHBliHXxBhKG3m9pauw+ho+G5s=
+
+Name: system/lib/libwebrtc_audio_preprocessing.so
+SHA1-Digest: 2zf7H4j3puvv56GcIGpL+hlZWmI=
+
+Name: system/framework/com.samsung.device.jar
+SHA1-Digest: IgBHwErIha9Hd7Av1xkKanSO/nQ=
+
+Name: system/vendor/firmware/vts.bin
+SHA1-Digest: 95S+y8qtLqha+S4GOX7WNQbHKB0=
+
+Name: system/vendor/firmware/APBiBF_AUDIO_SLSI.bin
+SHA1-Digest: Z5EgyBBMUWzJ9p1jaRxDW32Mha4=
+
+Name: 64/lib64/libsavsff.so
+SHA1-Digest: QpqVc3bkBM+GSX2K0yW1w0DD1x8=
+
+Name: system/etc/certReqTemplate128.der
+SHA1-Digest: ks8h7xbKDEXIO4d5qGi8aHmg90Q=
+
+Name: system/bin/apaservice
+SHA1-Digest: EQHxm7BB0wLsFFh1faxqCUS+/68=
+
+Name: system/lib/soundfx/libaudiosaplus_sec.so
+SHA1-Digest: UhdqICJLIyQarB10LqmwIXt3XKU=
+
+Name: system/lib/libsavsmeta.so
+SHA1-Digest: 9potXWMK3pejfDyEx128eIW2mmQ=
+
+Name: 64/lib64/libwebrtc_audio_preprocessing.so
+SHA1-Digest: 7ouKEqcb/u1R92LvSoNsrNlGt94=
+
+Name: system/app/SapaMonitor/SapaMonitor.apk
+SHA1-Digest: aLMhGpJ92oyMVo9Q27xENA6yUAI=
+
+Name: system/lib/jack/out.so
+SHA1-Digest: MoclHsmXflTquCaUMhKVzwYzJWo=
+
+Name: system/lib/libsavsac.so
+SHA1-Digest: LO6RAMgAWAXMSt2TzV0FEV+qbhQ=
+
+Name: 64/lib64/libhiddensound.so
+SHA1-Digest: l6c8kbDv5jIU/WXEZKRYT3fZHSo=
+
+Name: system/bin/profman
+SHA1-Digest: OoQz2ThqNkd2R5vIGmhY9tH3iXI=
+
+Name: 64/vendor/lib64/hw/audio.r_submix.default.so
+SHA1-Digest: ClZ7dmXtQRo0uCHU+otqrvsD03w=
+
+Name: system/lib/libjackshm.so
+SHA1-Digest: 8+YZTlvDwUEelGb9UiD+78BXuF4=
+
+Name: system/vendor/firmware/dsm.bin
+SHA1-Digest: 0jvXQNoOyIawk7FwdhOmcU8dmjY=
+
+Name: system/etc/firmware/cs47l92-dsp1-dsd-176.4kHz.wmfw
+SHA1-Digest: Sz9VJM+oky27Y3L9i68zkwY+8E0=
+
+Name: 64/vendor/lib64/soundfx/libreverbwrapper.so
+SHA1-Digest: 6cRbLl/JHbWX5RGBFKixLkE+2LQ=
+
+Name: 64/vendor/lib64/soundfx/libbundlewrapper.so
+SHA1-Digest: cj6ES2Wttl+V+/Mst1c5nfkwcrE=
+
+Name: system/lib/soundfx/libmysound.so
+SHA1-Digest: A90J8cbAz1ikZUlL2eNMhlN7wjg=
+
+Name: system/etc/firmware/cs47l92-dsp1-dsd-352.8kHz.wmfw
+SHA1-Digest: Hyv93zlEho9wQdBw+UHbh+uwpEI=
+
+Name: system/etc/security/cacerts/262ba90f.0
+SHA1-Digest: 8lddCo4bzq6+lMWhBrXLUB2E2kI=
+
+Name: system/etc/security/cacerts/b936d1c6.0
+SHA1-Digest: 46VQHCZjrb/LUUgE8q5VPkOQxQI=
+
+Name: common/config.sh
+SHA1-Digest: +rb0Oe+dVb4lPptXw2neLuf2yUs=
+
+Name: 64/vendor/lib64/soundfx/libaudiopreprocessing.so
+SHA1-Digest: DV9DYfeUvGE6pgf+vVXYPZf3Fds=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: system/xbin/jack_lsp
+SHA1-Digest: ZUZNj56PXLwhKIAbqhAEBJXBUrk=
+
+Name: system/etc/firmware/cs47l92-dsp1-trace.wmfw
+SHA1-Digest: ysGFsytIdp+kN3+Df14RPk7I/jE=
+
+Name: system/lib/lib_SoundAlive_play_plus_ver210.so
+SHA1-Digest: qh36zP4gO8UiAfLnAdsI2JyzOTo=
+
+Name: system/etc/audio_effects.conf
+SHA1-Digest: dFnqmMz0Ho04lxeYBjQv2qQZ3rs=
+
+Name: system/etc/security/cacerts/d41b5e2a.0
+SHA1-Digest: P7uwLjl3c7vXxpF1Eybgo2QFB4E=
+
+Name: common/bin/busybox-x86
+SHA1-Digest: f9a/YSC77rjp4mByKl5RmOLAilI=
+
+Name: 64/vendor/lib64/libjack.so
+SHA1-Digest: eYPFkcKsKUSa4vZDaHkUb/S+6LU=
+
+Name: system/etc/security/cacerts/a81e292b.0
+SHA1-Digest: al9R4P8yF47DIGJKY1uZhwkt3LA=
+
+Name: 64/lib64/libswdap_legacy.so
+SHA1-Digest: ZO5/IhsaH+711mCqIp5q40U5gyw=
+
+Name: system/lib/libjackserver.so
+SHA1-Digest: 42VSrGSstzaKq+iNUE+KWoqaN3w=
+
+Name: 64/lib64/lib_soundaliveresampler.so
+SHA1-Digest: BAiWBOfz4W36zYG65L4EEavanYA=
+
+Name: 64/lib64/libapa_control.so
+SHA1-Digest: BHBq50eS/5fGCUFg5sDRQ0Qxzl4=
+
+Name: 64/lib64/libsavscmn.so
+SHA1-Digest: qCNenNcytGqEv5x/k+rOEE+Sr4k=
+
+Name: system/lib/libcorefx.so
+SHA1-Digest: xaSgbVMritvEusTOv9wHnft4mck=
+
+Name: system/etc/sapa_feature.xml
+SHA1-Digest: /Tl7xhVq6Dn4HQEke+hAdvm5LWU=
+
+Name: system/etc/feature_default.xml
+SHA1-Digest: K38WE3B55rz4+HVhc64q9bJBwzA=
+
+Name: system/etc/security/cacerts/d5727d6a.0
+SHA1-Digest: u71TwMBmzpLyY2PTaVTGrJgzUOI=
+
+Name: system/vendor/firmware/APDV_AUDIO_SLSI.bin
+SHA1-Digest: 8FYv+yGLcqTEb3bUcV2HdmEwFoA=
+
+Name: system/lib/libswdap_legacy.so
+SHA1-Digest: nYshghX90GSrio+AIHMQKyhxUt8=
+
+Name: system/etc/security/cacerts/88950faa.0
+SHA1-Digest: xYZSw3dYMcq50n6g0STUiq1CUUs=
+
+Name: system/vendor/lib/hw/audio.primary.default.so
+SHA1-Digest: whkWU/8+Hqq/g6PDDg6WqxfTs+U=
+
+Name: system/lib/libsamsungvad.so
+SHA1-Digest: hfuIIF+dmUkNCpAKU2fEXuTJOXk=
+
+Name: system/lib/libmysound_legacy.so
+SHA1-Digest: ojinvqzNWT9p6uUE30/oGy/UzPA=
+
+Name: system/etc/security/cacerts/31188b5e.0
+SHA1-Digest: bPi+ZxwnDxXHWHgHvRNGsApNbtk=
+
+Name: system/lib/libsamsungSoundbooster_plus_legacy.so
+SHA1-Digest: 6feARwCsqKdkT1WFqvzeOqbG8cQ=
+
+Name: 64/vendor/lib64/libapex_jni.so
+SHA1-Digest: yy6eVmkvAPYxY5qKba/VMVv8A+k=
+
+Name: system/etc/floating_feature.xml
+SHA1-Digest: lrwx82+WfH8wBrV0ruP0aP7GbH0=
+
+Name: 64/lib64/libapa.so
+SHA1-Digest: NI9X2ksLgHpa2n1Hygr4UsCuVPk=
+
+Name: system/etc/security/cacerts/c907e29b.0
+SHA1-Digest: 1rAfU50PTWXTSi+G5kP63npyCRQ=
+
+Name: 64/vendor/lib64/soundfx/libdynproc.so
+SHA1-Digest: HhLLa3Ctu3KC6UjN2LKKzQ+9WcQ=
+
+Name: system/lib/libapex_client.so
+SHA1-Digest: 84jyUyNyoibKTP0GKzk3G+PFkwM=
+
+Name: system/etc/security/cacerts/7c302982.0
+SHA1-Digest: EYXPxTzckz9p2QMj96r5N2hnZHE=
+
+Name: system/vendor/lib/soundfx/libdownmix.so
+SHA1-Digest: tCpQCSvLpb5yXBHC3sh4PPusOnU=
+
+Name: 64/lib64/libsavsmeta.so
+SHA1-Digest: 0cFmOf04zl84QkPLAesclKbXSH4=
+
+Name: system/etc/security/cacerts_wfa/21125ccd.0
+SHA1-Digest: qEXDUcQwPZFvSIzuNdr6ZmqrzJQ=
+
+Name: system/etc/permissions/privapp-permissions-com.sec.android.app.s
+ oundalive.xml
+SHA1-Digest: wtyDhahWARrQtQA8WnZ4BhPspUU=
+
+Name: system/framework/samsung-services.jar
+SHA1-Digest: nZgh4JS7CC86SYNb96Rm1JUxVGw=
+
+Name: system/vendor/lib/lib_SoundBooster_ver900.so
+SHA1-Digest: xFKnNW0KeRMOJHXCEKc/XcPk2I0=
+
+Name: system/vendor/lib/libjack.so
+SHA1-Digest: /R9Y5eBvmWxVenvj9nJ28QM9yXM=
+
+Name: common/bin/busybox-arm
+SHA1-Digest: O8ZJ7t88uGrtiatbaz/G8inKIdc=
+
+Name: system/framework/semextendedformat.jar
+SHA1-Digest: aEOtVxeSmubl/8j3fxq8i4SpgQE=
+
+Name: system/lib/jack/jack_alsa.so
+SHA1-Digest: OsH8fiOrjOXmw6GeV+KG8DcHTOU=
+
+Name: 64/vendor/lib64/soundfx/libeffectproxy.so
+SHA1-Digest: lsSa7UI0OPyRusk7UoL/JyCFQjo=
+
+Name: system/app/SapaAudioConnectionService/SapaAudioConnectionService
+ .apk
+SHA1-Digest: i5VZMa4arv+AaY3xR2KRdYoSA0U=
+
+Name: common/service.sh
+SHA1-Digest: zf0sfHw0rd9g7XmNQTCWwZV5Bm8=
+
+Name: system/etc/permissions/com.sec.android.visualeffect.xml
+SHA1-Digest: /5rEECqMM1D8jVNTdSUsfZoPls4=
+
+Name: system/lib/libjackservice.so
+SHA1-Digest: hLPA9mGIRZ1ICk8SCOeHi0dv/xA=
+
+Name: system/lib/jack/jack_opensles.so
+SHA1-Digest: pXMKTW0E/UQ8QEufbW433EZbvB4=
+
+Name: system/etc/security/cacerts/583d0756.0
+SHA1-Digest: cxjKjoq1XoX6zxhQyNY/qYg12z8=
+
+Name: system/xbin/jack_connect
+SHA1-Digest: dldWdDPJPxWITpy/FjxL1AyVWuw=
+
+Name: system/lib/jack/jack_dummy.so
+SHA1-Digest: e8SmxvyhiyfpiKLzeAPzWoZkg6E=
+
+Name: system/lib/lib_SoundAlive_SRC384_ver320.so
+SHA1-Digest: szQ6ua3W60JqGbcS2+ugAiTsp9g=
+
+Name: system/lib/lib_SoundBooster_ver900.so
+SHA1-Digest: xFKnNW0KeRMOJHXCEKc/XcPk2I0=
+
+Name: system/vendor/lib/librecordalive.so
+SHA1-Digest: iiQBNui4VHAXvtSSydJ6kBOHcv0=
+
+Name: system/lib/soundfx/libmyspace.so
+SHA1-Digest: iOMuWhVLspUCTpCPiQM1Vhsz9wg=
+
+Name: system/vendor/lib/libfloatingfeature.so
+SHA1-Digest: OyHHLH49aFguRUV4ZTN/GBtdGcg=
+
+Name: system/vendor/firmware/SoundBoosterParam.bin
+SHA1-Digest: tGSHrkylAlijNudGX5eJVNDDV0k=
+
+Name: system/vendor/lib/lib_SoundAlive_AlbumArt_ver105.so
+SHA1-Digest: utHU66azCT6W5rFpJ1iWaR7Jukk=
+
+Name: system/xbin/jack_disconnect
+SHA1-Digest: dldWdDPJPxWITpy/FjxL1AyVWuw=
+
+Name: system/lib/libmediacapture_jni.so
+SHA1-Digest: BLTPUtA6NDIM/w+1/PNiNCttAFE=
+
+Name: system/lib/hw/audio.primary.universal8895.so
+SHA1-Digest: PJlnCqehfL7fZuuOl2lMjWlforE=
+
+Name: system/vendor/lib/hw/audio.usb.default.so
+SHA1-Digest: Y4z0mA+2PrTh4Wt7H9ZmmlJEnpY=
+
+Name: system/lib/lib_SamsungVAD_v01009.so
+SHA1-Digest: 0SHh5NHnAt28KcbfmlLGSU+ZRHM=
+
+Name: system/etc/security/cacerts/c2c1704e.0
+SHA1-Digest: lARb/1fmhnTkiM5nncD+aRFT5B8=
+
+Name: system/bin/jackd
+SHA1-Digest: MIw2o9iWh7KFozhG17V0ZdxT8cU=
+
+Name: system/lib/libhiddensound.so
+SHA1-Digest: jwsdoZY7NTMrDfYjoGrM0jCwe04=
+
+Name: system/lib/hw/audio.primary.goldfish_legacy.so
+SHA1-Digest: JJlDJZYZdz+rZ/03itMpWDqdoFo=
+
+Name: 64/lib64/libapex_client.so
+SHA1-Digest: Hu3mWjxalvt/v5YBJmn5WiRmtXA=
+
+Name: 64/lib64/libapaproxy.so
+SHA1-Digest: qldd2vv1V4bCFyysMUAbTf4HhGs=
+
+Name: system/vendor/lib/soundfx/libeffectproxy.so
+SHA1-Digest: 6q2G/RkrSxAKUr2caJMRnH0LFfA=
+
+Name: system/lib/libapaproxy.so
+SHA1-Digest: QoFhKTxpB4Mc5qMiwQ82S8rdr+Q=
+
+Name: system/lib/soundfx/libaudioeffectoffload.so
+SHA1-Digest: qs3w6VmaWHVJxNn7PGGf7sqQkzE=
+
+Name: system/lib/soundfx/libgearvr.so
+SHA1-Digest: KD4+4oifK8XnlV+WIgP3JPk6zHM=
+
+Name: system/lib/hw/audio.primary.goldfish.so
+SHA1-Digest: YXqX0T8kODs+IfODK3hJslZeCM0=
+
+Name: system/lib/lib_SoundAlive_AlbumArt_ver105.so
+SHA1-Digest: utHU66azCT6W5rFpJ1iWaR7Jukk=
+
+Name: system/lib/libsvoicedll.so
+SHA1-Digest: ye88KBq/rjNTypYtugqXqeV6pNE=
+
+Name: system/vendor/lib/lib_SamsungRec_06006.so
+SHA1-Digest: e95jTeOepvQwJmu0e0uX8unpqNs=
+
+Name: system/lib/hw/audio.tms.default.so
+SHA1-Digest: XD1ZoBqs9D0QycPib+bdVqMmWmg=
+
+Name: 64/lib64/hw/audio.primary.goldfish.so
+SHA1-Digest: 6b91RljFHop37uB5I3sB5EsbYNE=
+
+Name: system/lib/lib_DNSe_EP_ver216c.so
+SHA1-Digest: QYTDI2Ypv2jBDBlcPFJiWaJJ/GM=
+
+Name: system/vendor/firmware/APBargeIn_AUDIO_SLSI.bin
+SHA1-Digest: YjHKC0TBmwiK/uaU9RlNHY3tnuA=
+
+Name: common/backup.sh
+SHA1-Digest: 24rn5mSYV1mlTfoiWsmWscA2XPQ=
+
+Name: 64/vendor/lib64/libsmart_cropping.so
+SHA1-Digest: lhGxQLfBTxHbsK0yGrph1GZSKx4=
+
+Name: 64/vendor/lib64/hw/audio.primary.default.so
+SHA1-Digest: x/+8q/6CXPykN3fC8KLsfp60xcQ=
+
+Name: 64/lib64/libSoundAlive_VSP_ver316a_ARMCpp_64bit.so
+SHA1-Digest: hEqqgzrZpYFhboLnZemeRkav1SM=
+
+Name: 64/lib64/hw/audio.primary.goldfish_legacy.so
+SHA1-Digest: CeMp8jnXzdMlcer0pX7WUimAQdE=
+
+Name: 64/lib64/libdexfile.so
+SHA1-Digest: /FtApoCYDPuTgU06oBXbMh1v4ZM=
+
+Name: 64/lib64/libcodecsolution.so
+SHA1-Digest: 4w8zqDJL5yR5V11MSWM/CGNUNmo=
+
+Name: system/lib/libapex_cmn.so
+SHA1-Digest: zfKoX15lhs62fZ8InayjLfKLnJ0=
+
+Name: 64/vendor/lib64/hw/audio.usb.default.so
+SHA1-Digest: j99eQU/bkVhQ/j9R8i7KnOlDSCo=
+
+Name: system/vendor/lib/libaudiohookclient.so
+SHA1-Digest: Zqc5mub7Gy0lYj66E1ZYsiSwP8U=
+
+Name: 64/lib64/libfloatingfeature.so
+SHA1-Digest: TCHNwaUNNJs67Eu/IjhPr3J+XNc=
+
+Name: system/vendor/lib/soundfx/libaudiopreprocessing.so
+SHA1-Digest: obQ4+PQciQCMcEXsfGx3YLqQWXI=
+
+Name: system/lib/liblegacyeffects.so
+SHA1-Digest: juDUkH6IkUHWgwNf3Szi+RKXLEE=
+
+Name: 64/lib64/libsamsungeffect.so
+SHA1-Digest: 9kLxnJAWvz/skfI9LtgyEjK4Qps=
+
+Name: system/lib/libapa_control.so
+SHA1-Digest: hLtJwf5R7ncBnq5bX6d223UirvM=
+
+Name: system/lib/libapa.so
+SHA1-Digest: VFq37CBeAamOaOgGcY2aio7LLqM=
+
+Name: system/lib/libmediacaptureservice.so
+SHA1-Digest: uA2RU9zVnMeIyk9qqW2/crnQMo8=
+
+Name: system/vendor/lib/libsmart_cropping.so
+SHA1-Digest: g/UBJu4v9W+ADSvdNQYK4uVSksA=
+
+Name: system/vendor/lib/libcodecdspdump.so
+SHA1-Digest: IxoOCmDgGIihFIu+5vg7GiD/JRk=
+
+Name: system/lib/libsavsvc.so
+SHA1-Digest: 9XNHCrhOmOGP/KCDOaKSazKJFnI=
+
+Name: system/lib/libsamsungeffect.so
+SHA1-Digest: f6RJywx4dD4NGfsgTHF1eYq/aso=
+
+Name: system/lib/libsamsungDiamondVoice.so
+SHA1-Digest: s5kOQQAD3HclQezXWHBmZPiKSpk=
+
+Name: 64/vendor/lib64/libfloatingfeature.so
+SHA1-Digest: Ydz8hzfEUjndt2gUew85L/H6wJQ=
+
+Name: 64/lib64/libsamsungearcare.so
+SHA1-Digest: 8wq2meXiY28FRHc4/qHTMqeU7m0=
+
+Name: system/vendor/etc/SoundBoosterParam.txt
+SHA1-Digest: 57ETO2T5X7BFy9HZO9ic3xCKymQ=
+
+Name: system/vendor/lib/lib_SoundAlive_3DPosition_ver202.so
+SHA1-Digest: QVA6Vt73TcCQr5PWJnE3KYvqmLU=
+
+Name: 64/vendor/lib64/soundfx/libdownmix.so
+SHA1-Digest: U2he008hyXoqqb7wImNNnTNKtts=
+
+Name: 64/lib64/soundfx/libaudioeffectoffload.so
+SHA1-Digest: NDdOH0r1XDv3+dps0zpJngL+/+I=
+
+Name: system/vendor/lib/libapa_jni.so
+SHA1-Digest: W84/5XHRqEzImH4Cn7p1YP4rYm0=
+
+Name: system/etc/permissions/com.sec.android.app.minimode.xml
+SHA1-Digest: 7egNm/DpvlhUwxchMzXg5sInHvA=
+

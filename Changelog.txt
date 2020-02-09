@@ -1,0 +1,102 @@
+# Samsung Audio Engine
+# by shimmer @ 4pda
+
+Version 4.4 | 02.02.2020
+- Updated installer for the new Magisk
+- Updated audio engine
+- Updated Sound Alive
+- Alsa configuration port, qcom and exynos only
+- Connected soundalive via alsa, only for qcom and exynos
+- Setting up the audio engine based on the latest Galaxy S9 firmware using a disassembler
+- Redesigned general sound panorama
+- Added interface in the terminal emulator, for managing effects, in the test
+  Called by the command: sae
+- Added automatic cleaning of the dalvik-cache and reboot
+
+Version: 4.3.1 | 09.01.2020
+- Fixed bootloop on android 9 and 8
+- Fixed installation freeze
+- Fixed installation crash due to Busybox in recovery and terminal
+- Added automatic recovery, in case of failure, if changes were made
+- Optimized installer
+- Optimized and tuned audio engine from captured Galaxy S9 dumps
+- SoundAlive settings edited
+
+Version: 4.3 | 19.05.2019
+- Fixed bugs
+- Fixed effects for android 5.0-7.1
+- Adaptation of the audio engine for systems
+
+Version: 4.2 | 10.05.2019
+- Added Magisk support
+- Added Speex from S9 improves speech processing
+- Fixed bug with hanging outgoing and incoming calls
+- Fixed bootloop on mtk android 8.1
+- Fixed errors in the engine
+- Fixed bugs in UHQ resampler
+- Cut conflict files
+- Adjustment in sound
+
+Version: 4.1 | 25.02.2019
+- Fixed bugs
+- Added and corrected system file permissions
+- Rewritten installation process
+- High resolution effects for androids 5-6 included
+- Fixed partition mounting
+- Fixed installation process via terminal
+- Added option resampler UHQ Upscaler
+
+Version: 4.0 | 03.02.2019
+- Updated SoundAlive52 to version 54 from Galaxy S9 9.0
+- Added support for high resolution effects.
+- Included high-resolution effects, ported from Galaxy S9 9.0 for Android 7.0-9.0, for Android 5.0-6.0 the standard resolution is used
+- Fixed Dolby, UHQ effects
+- Added choice of quality UHQ Upscaler
+Resampler UHQ support:
+Bluetooth:
+Normal 44.1 kHz
+UHQ 96 kHz
+Headphones:
+Normal 48 kHz
+UHQ 192 kHz
+SUHQ 384 kHz
+- Security update for the engine
+- Combined Galaxy s8 engine with Galaxy s9
+- Added support for audio pro, low latency if system supports
+- Updated pro audio driver
+- Removed installation of Google media effects on systems without gapps - this has a good effect on sound
+- Improved compatibility with android 5.0-6.0, 9.0
+- Updated soundalive settings
+- Fixed installer errors
+
+Version: 3.0 | 12.01.2019
+- Bugs fixed
+- Improved compatibility with android 9.0
+- Migrated sound
+
+Version: 2.2 | 31.12.2018
+- Updated DolbyAtmos from the latest Galaxy S9 update android 9.0 Pie
+- Effects fixes
+- Minor installer changes
+- Balanced sound
+
+Version: 2.1 | 24.12.2018
+- Fixed bootloop on android 9.0 Pie
+
+Version: 2.0 | 23.12.2018
+- Fully updated engine from the latest version of the firmware Galaxy S8
+- Ported SoundAlive from Galaxy S9
+- Ported DolbyAtmos from Galaxy S9
+- Added the ability to manage SoundAlive settings and effects such as:
+Dolby Atmos
+Concert Hall
+Tube Amp Pro
+Sorround
+UHQ Upscaler
+3D
+EQ
+- Fixed compatibility issues with some devices.
+- The function that from long listening to music does not cause discomfort in the ears
+
+Version: 1.0 | 28.11.2018
+- Ported audio engine from Samsung Galaxy S8

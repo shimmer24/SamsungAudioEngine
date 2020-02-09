@@ -1,0 +1,6 @@
+id=sae
+name=Samsung Audio Engine
+version=V4.4
+versionCode=44
+author=shimmer
+description=Audio engine port of Samsung Galaxy S8 and S9. Increases detail, clarity, volume, bass depth and control branded audio with SoundAlive effects
